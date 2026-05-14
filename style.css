@@ -1,0 +1,36 @@
+body{font-family: Comforta, sans-serif;font-weight: 300;}
+/* styles.css */
+
+body {background-color: #ffffff;}
+
+.myTable {border: 1px solid #ff0000; width: 95%; margin: 0  auto; /* Align center */ border-collapse: collapse; /* Remove cellspacing */padding: 20px; /* cellpadding */}
+
+h1 {color: #040504;}
+
+h2 {text-align: center;color: #070707;}
+
+.td-heading {/* Your styles for special td elements */ background-color: #5884d1; /* Example background color */ text-align: left; /* Example text alignment */padding: 5px; /* Example padding */ }
+
+.td-odd {/* Your styles for special td elements */ background-color: #fffeba; /* Example background color */
+		text-align: left; /* Example text alignment */padding: 2px; /* Example padding */}
+
+.td-even {/* Your styles for special td elements */
+		background-color: #fffeba; /* Example background color */
+		text-align: left; /* Example text alignment */
+		padding: 2px; /* Example padding */}
+
+.footer-td {background-color: #b3bac1;
+		font-size: 10px; color: #608caf;
+	    body{font-family: Comforta, sans-serif;
+		font-weight: 300;}}
+		
+       
+        a {color: rgb(0, 0, 0); /* Default color */
+		text-decoration: none; /* Remove underline */
+		background-color: transparent; /* Transparent background */
+		transition: background-color 0.5s ease; /* Smooth transition */}
+
+a:hover {color: rgb(0, 0, 0); /*Color on hover*/
+		background-color: #fffed3; /* Background color on hover */}
+
+
